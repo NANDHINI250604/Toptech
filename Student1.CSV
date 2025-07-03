@@ -1,0 +1,102 @@
+﻿S.NO,NAME,AGE,GENDER,PASS/FAIL,MARKS,PERFORMANCE,CGPA,DEGREE,COURSE,ATTENDANCE,EVENTS,INTERNSHIP,CLASS ACTIVITY,PLACEMENT,POSITIVE,NEGATIVE,TARGET
+1,Gokul Patel,20,Female,Pass,68,Average,6.8,IIT Madras,Introduction to Programming,90%,workshop,AI,Excellent,Selected,yes,NO,0
+2,Om Raj,22,Female,Pass,64,Average,6.4,IIT Madras,Data Structures,90%,workshop,AI,Excellent,Selected,yes,NO,0
+3,Uday Nair,22,Male,Pass,92,Excellent,9.2,IIT Madras,Algorithms,90%,workshop,AI,Excellent,Selected,yes,NO,0
+4,Om Ali,21,Male,Pass,92,Excellent,9.2,IIT Madras,Operating Systems,90%,workshop,AI,Excellent,Selected,yes,NO,0
+5,Jaya Sree,20,Female,Pass,71,Good,7.1,IIT Madras,Computer Networks,90%,workshop,AI,Excellent,Selected,yes,NO,0
+6,Wasim Sree,21,Male,Pass,81,Very Good,8.1,AI Research,Database Management Systems,90%,workshop,AI,Excellent,Selected,yes,NO,0
+7,Aadhav Sree,19,Male,Pass,97,Excellent,9.7,UPSC,Software Engineering,90%,workshop,AI,Excellent,Selected,yes,NO,0
+8,Divya Kumar,20,Female,Pass,84,Very Good,8.4,NIT Trichy,Web Development,90%,workshop,AI,Excellent,Selected,yes,NO,0
+9,Nithya Das,22,Female,Pass,68,Average,6.8,AI Research,Mobile App Development,90%,workshop,AI,Excellent,Selected,yes,NO,0
+10,Nithya Patel,22,Female,Pass,60,Average,6,UPSC,Cloud Computing,90%,workshop,AI,Excellent,Selected,yes,NO,0
+11,Aadhav Raj,21,Female,Pass,100,Excellent,10,AI Research,Cybersecurity,90%,workshop,AI,Excellent,Selected,yes,NO,0
+12,Tanvi Patel,18,Female,Pass,75,Good,7.5,NIT Trichy,Machine Learning,90%,workshop,AI,Excellent,Selected,yes,NO,0
+13,Yash Sree,21,Female,Pass,90,Excellent,9,UPSC,Artificial Intelligence,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+14,Wasim Rani,18,Female,Fail,99,Excellent,9.9,UPSC,Deep Learning,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+15,Jaya Sharma,20,Male,Pass,72,Good,7.2,AI Research,Natural Language Processing,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+16,Xenia Raj,20,Female,Pass,94,Excellent,9.4,UPSC,Computer Vision,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+17,Wasim Ali,22,Male,Pass,75,Good,7.5,AI Research,Internet of Things (IoT),90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+18,Gokul Das,19,Female,Pass,60,Average,6,UPSC,Big Data Analytics,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+19,Divya Patel,22,Male,Pass,68,Average,6.8,AI Research,Data Science,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+20,Wasim Mehta,20,Male,Pass,79,Good,7.9,NIT Trichy,Blockchain Technology,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+21,Jaya Ali,20,Male,Pass,93,Excellent,9.3,Graduation,DevOps,90%,workshop,fullstack,Excellent,Selected,yes,NO,0
+22,Sanjay Menon,18,Female,Pass,86,Very Good,8.6,IIT Madras,Version Control (Git),90%,workshop,java,Excellent,Selected,yes,NO,0
+23,Karthik Das,20,Male,Pass,83,Very Good,8.3,IIT Madras,Agile Methodology,90%,workshop,java,Excellent,Selected,yes,NO,0
+24,Yash Nair,21,Male,Pass,71,Good,7.1,Graduation,Digital Forensics,90%,workshop,java,Excellent,Selected,yes,NO,0
+25,Manoj Kumar,22,Female,Pass,89,Very Good,8.9,IIT Madras,Cryptography,90%,workshop,java,Excellent,Selected,yes,NO,0
+26,Charan Nair,20,Male,Pass,61,Average,6.1,NIT Trichy,Linux Administration,90%,workshop,oops,Excellent,Selected,yes,NO,0
+27,Jaya Kumar,19,Female,Pass,95,Excellent,9.5,AI Research,Windows Server Management,90%,PPT,oops,Excellent,Selected,yes,NO,0
+28,Xenia Nair,20,Female,Pass,60,Average,6,NIT Trichy,Penetration Testing,90%,PPT,oops,Excellent,Selected,yes,NO,0
+29,Om Nair,19,Female,Pass,88,Very Good,8.8,UPSC,ReactJS,90%,paper,oops,Excellent,Selected,yes,NO,0
+30,Charan Raj,22,Female,Pass,89,Very Good,8.9,AI Research,Angular,90%,paper,oops,Excellent,Selected,yes,NO,0
+31,Varsha Ali,22,Female,Pass,80,Very Good,8,NIT Trichy,Vue.js,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+32,Bhavya Sharma,19,Male,Pass,89,Very Good,8.9,AI Research,Node.js,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+33,Sanjay Patel,20,Male,Pass,83,Very Good,8.3,AI Research,Express.js,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+34,Varsha Sree,20,Male,Pass,83,Very Good,8.3,Graduation,Django,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+35,Gokul Sree,18,Female,Pass,63,Average,6.3,Graduation,Flask,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+36,Zoya Sharma,22,Female,Pass,66,Average,6.6,NIT Trichy,Java Programming,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+37,Yash Das,20,Female,Pass,91,Excellent,9.1,UPSC,C Programming,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+38,Zoya Mehta,21,Female,Pass,90,Excellent,9,AI Research,C++ Programming,90%,papxc,datastructure,Excellent,Selected,yes,NO,0
+39,Nithya Kumar,20,Female,Pass,74,Good,7.4,NIT Trichy,Python Programming,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+40,Tanvi Sree,20,Female,Pass,93,Excellent,9.3,AI Research,Ruby on Rails,90%,papxc,datastructure,Excellent,Selected,yes,NO,0
+41,Karthik Ali,22,Female,Pass,81,Very Good,8.1,Graduation,PHP Development,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+42,Uday Rani,20,Male,Pass,88,Very Good,8.8,UPSC,ASP.NET,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+43,Wasim Verma,20,Female,Pass,99,Excellent,9.9,Graduation,Go Programming,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+44,Zoya Kumar,18,Female,Pass,97,Excellent,9.7,IIT Madras,Rust Programming,90%,papxc,datastructure,Excellent,Selected,yes,NO,0
+45,Om Patel,19,Female,Pass,80,Very Good,8,AI Research,Kotlin,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+46,Karthik Kumar,18,Male,Pass,80,Very Good,8,NIT Trichy,Swift Programming,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+47,Sanjay Sharma,22,Female,Pass,87,Very Good,8.7,Graduation,Unity Game Development,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+48,Yash Ali,22,Female,Pass,87,Very Good,8.7,AI Research,Unreal Engine,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+49,Nithya Sree,18,Female,Pass,82,Very Good,8.2,AI Research,Game Design,90%,paper,datastructure,Excellent,Selected,yes,NO,0
+50,Qadir Menon,18,Male,Pass,65,Average,6.5,IIT Madras,UX/UI Design,90%,NIL,python,Excellent,Selected,yes,NO,0
+51,Bhavya Kumar,22,Female,Fail,43,Poor,4.3,Diploma,Frontend Development,43%,NIL,Nil,poor,not selected,no,Yes,1
+52,Xenia Kumar,20,Female,Fail,25,Very Poor,2.5,Reattempt,Backend Development,25%,NIL,Nil,poor,not selected,no,Yes,1
+53,Wasim Nair,20,Male,Fail,25,Very Poor,2.5,Reattempt,Full Stack Development,25%,NIL,Nil,poor,not selected,no,Yes,1
+54,Tanvi Menon,20,Male,Fail,40,Poor,4,Improve Marks,Microservices Architecture,25%,NIL,Nil,poor,not selected,no,Yes,1
+55,Harini Menon,22,Female,Fail,34,Very Poor,3.4,Improve Marks,API Development,22%,NIL,Nil,poor,not selected,no,Yes,1
+56,Manoj Sharma,20,Female,Fail,36,Poor,3.6,Reattempt,Docker,20%,NIL,Nil,poor,not selected,no,Yes,1
+57,Divya Rani,19,Male,Fail,38,Poor,3.8,Dropout Risk,Kubernetes,10%,NIL,Nil,poor,not selected,no,Yes,1
+58,Manoj Rani,21,Female,Fail,26,Very Poor,2.6,Dropout Risk,AWS Cloud,10%,NIL,Nil,poor,not selected,no,Yes,1
+59,Bhavya Sree,21,Male,Fail,32,Very Poor,3.2,Improve Marks,Azure Cloud,10%,NIL,Nil,poor,not selected,no,Yes,1
+60,Ritika Verma,18,Female,Fail,40,Poor,4,Dropout Risk,Google Cloud Platform,10%,NIL,Nil,poor,not selected,no,Yes,1
+61,Uday Patel,20,Female,Fail,22,Very Poor,2.2,Diploma,Firebase,10%,NIL,Nil,poor,not selected,no,Yes,1
+62,Lavanya Menon,22,Female,Fail,47,Poor,4.7,Dropout Risk,Salesforce Development,25%,NIL,Nil,poor,not selected,no,Yes,1
+63,Ishaan Verma,21,Female,Fail,21,Very Poor,2.1,Dropout Risk,Power BI,25%,NIL,Nil,poor,not selected,no,Yes,1
+64,Farah Kumar,21,Male,Fail,22,Very Poor,2.2,Dropout Risk,Tableau,25%,NIL,Nil,poor,not selected,no,Yes,1
+65,Yash Raj,19,Male,Fail,41,Poor,4.1,Improve Marks,Hadoop,25%,NIL,Nil,poor,not selected,no,Yes,1
+66,Bhavya Raj,19,Female,Fail,26,Very Poor,2.6,Diploma,Spark,25%,NIL,Nil,poor,not selected,no,Yes,1
+67,Eshan Ali,21,Female,Fail,32,Very Poor,3.2,Dropout Risk,TensorFlow,25%,NIL,Nil,poor,not selected,no,Yes,1
+68,Eshan Das,20,Female,Fail,44,Poor,4.4,Dropout Risk,PyTorch,20%,NIL,Nil,poor,not selected,no,Yes,1
+69,Jaya Menon,19,Male,Fail,27,Very Poor,2.7,Dropout Risk,Jenkins,20%,NIL,Nil,poor,not selected,no,Yes,1
+70,Ritika Mehta,21,Female,Fail,30,Very Poor,3,Reattempt,CI/CD Pipelines,20%,NIL,Nil,poor,not selected,no,Yes,1
+71,Harini Patel,20,Female,Fail,44,Poor,4.4,Diploma,Testing and QA,20%,NIL,Nil,poor,not selected,no,Yes,1
+72,Ritika Ali,20,Male,Fail,31,Very Poor,3.1,Improve Marks,Selenium,20%,NIL,Nil,poor,not selected,no,Yes,1
+73,Gokul Verma,21,Male,Fail,49,Poor,4.9,Diploma,PostgreSQL,40%,NIL,Nil,poor,not selected,no,Yes,1
+74,Ritika Rani,18,Female,Fail,29,Very Poor,2.9,Diploma,MySQL,40%,NIL,Nil,poor,not selected,no,Yes,1
+75,Xenia Rani,22,Male,Fail,30,Very Poor,3,Diploma,MongoDB,40%,NIL,Nil,poor,not selected,no,Yes,1
+76,Sanjay Raj,19,Male,Fail,40,Poor,4,Dropout Risk,Oracle DB,40%,NIL,Nil,poor,not selected,no,Yes,1
+77,Nithya Menon,19,Female,Fail,31,Very Poor,3.1,Improve Marks,NoSQL Databases,40%,NIL,Nil,poor,not selected,no,Yes,1
+78,Uday Mehta,19,Male,Fail,22,Very Poor,2.2,Diploma,GraphQL,23%,NIL,Nil,poor,not selected,no,Yes,1
+79,Ishaan Das,18,Male,Fail,21,Very Poor,2.1,Reattempt,RESTful APIs,23%,NIL,Nil,poor,not selected,no,Yes,1
+80,Qadir Sree,20,Male,Fail,42,Poor,4.2,Diploma,Shell Scripting,23%,NIL,Nil,poor,not selected,no,Yes,1
+81,Gokul Menon,18,Male,Fail,20,Very Poor,2,Diploma,Bash Programming,23%,NIL,Nil,poor,not selected,no,Yes,1
+82,Nithya Nair,18,Female,Fail,26,Very Poor,2.6,Improve Marks,Ethical Hacking,23%,NIL,Nil,poor,not selected,no,Yes,1
+83,Wasim Sharma,18,Male,Fail,43,Poor,4.3,Improve Marks,Information Security,33%,NIL,Nil,poor,not selected,no,Yes,1
+84,Karthik Sharma,20,Male,Fail,38,Poor,3.8,Reattempt,Data Privacy,33%,NIL,Nil,poor,not selected,no,Yes,1
+85,Qadir Verma,19,Female,Fail,34,Very Poor,3.4,Improve Marks,Web Scraping,33%,NIL,Nil,poor,not selected,no,Yes,1
+86,Karthik Menon,19,Male,Fail,47,Poor,4.7,Improve Marks,Computer Graphics,33%,NIL,Nil,poor,not selected,no,Yes,1
+87,Aadhav Patel,20,Female,Fail,40,Poor,4,Reattempt,Parallel Computing,33%,NIL,Nil,poor,not selected,no,Yes,1
+88,NANDY,20,Female,Fail,22,very poor,4,Improve Marks,Distributed Systems,20%,NIL,Nil,poor,not selected,no,Yes,1
+89,SUHAIL,20,Male,Fail,22,very poor,4,Reattempt,Embedded Systems,20%,NIL,Nil,poor,not selected,no,Yes,1
+90,MADHAN,20,Male,Fail,21,very poor,4,Improve Marks,System Design,20%,NIL,Nil,poor,not selected,no,Yes,1
+91,NAVEEN,20,Male,Fail,6,very poor,4,Reattempt,Compiler Design,20%,NIL,Nil,poor,not selected,no,Yes,1
+92,SAI,20,Male,Fail,32,very poor,4,Reattempt,Object-Oriented Programming,20%,NIL,Nil,poor,not selected,no,Yes,1
+93,VISU,20,Male,Fail,30,very poor,4,Reattempt,Functional Programming,19%,NIL,Nil,poor,not selected,no,Yes,1
+94,VELA,20,Female,Fail,27,very poor,4,Reattempt,Software Testing,15%,NIL,Nil,poor,not selected,no,Yes,1
+95,PRAJIN,20,Male,Fail,25,very poor,4,Reattempt,Agile Project Management,33%,NIL,Nil,poor,not selected,no,Yes,1
+96,DHAKSI,20,Female,Fail,22,very poor,4,Reattempt,Software Architecture,24%,NIL,Nil,poor,not selected,no,Yes,1
+97,RICKY,20,Male,Fail,21,very poor,4,Reattempt,Programming Paradigms,43%,NIL,Nil,poor,not selected,no,Yes,1
+98,SONA ,20,Female,Fail,20,very poor,4,Reattempt,Technical Writing,23%,NIL,Nil,poor,not selected,no,Yes,1
+99,MONA,20,Female,Fail,12,very poor,4,Reattempt,Code Optimization,43%,NIL,Nil,poor,not selected,no,Yes,1
+100,DHARSHA,20,Male,Fail,11,very poor,4,Reattempt,Freelancing for Developers,22%,NIL,Nil,poor,not selected,no,Yes,1
+,,,,,,,,,,,,,,,,,
